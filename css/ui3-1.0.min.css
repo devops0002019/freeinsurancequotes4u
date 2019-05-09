@@ -219,6 +219,13 @@ a.brand > * {
 
 
 
+/* menus */
+
+.menu a {
+	margin: 16px 0 0 !important;
+}
+
+
 
 .nav-menu a{
 	margin: 0 4px  0;
@@ -727,6 +734,7 @@ color:#262626;
 }
 
 .text-center {
+	align-self: center;
     text-align: center !important;
 }
 [class*="1em"] {
