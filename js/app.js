@@ -46,10 +46,10 @@ function footer_template(foot) {
             <p><b>Attention: </b> In offering this website, eHealthInsurance Services, Inc. is required to comply with all applicable federal law, including the standards established under 45 CFR 155.220(c) and (d) and standards established under 45 CFR 155.260 to protect the privacy and security of personally identifiable information. This website may not display all data on Qualified Health Plans (QHPs) being offered in your state through the Health Insurance MarketplaceSM website. </p>
         </div>
 
-        <ul class="menu flex-end">
-            <li><a href="privacy.html"> Privacy </a> </li>
-            <li><a href="terms.html"> Term of Use </a> </li>
-        </ul>
+        <div class="menu flex-end">
+            <a href="privacy.html">Privacy</a> 
+            <a href="terms.html">Term of Use</a> 
+        </div>
 
     </div>
   `;
